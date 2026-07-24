@@ -29,6 +29,7 @@ deepseek.com
 claude.ai
 chat.deepseek.com
 perplexity.ai
+kimi.com
 crazygames.com
 itch.io
 mobygames.com
